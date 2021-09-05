@@ -1,3 +1,3 @@
 # eticaret
- E-ticaret scripti - (PHP KURSU İLE BERABER YAPILDI)
+ E-ticaret scripti 
  12/06/2020
